@@ -1,0 +1,14 @@
+{
+  "name": "game-hub",
+  "version": "1.0.0",
+  "description": "Game Hub Console - A gaming platform interface",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Build complete'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.6.1"
+  },
+  "private": true
+}
